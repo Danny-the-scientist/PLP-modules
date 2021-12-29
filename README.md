@@ -4,9 +4,8 @@ Pipeline Pilot module images utilized in LINCS and IDG work; NOT ACTUAL CODE
 This contains images of the modular nature of Pipeline Pilot and some imaged samples of code, but not utilizable. Used primarily for ETL and curation tracking for [key entities and experiments](https://lincsproject.org/LINCS/data/standards)
 
 
-Sharable LINCS Code/module use - LINCS primarily used a modular-based program (PipelinePilot) to obtain, edit, etc., various information. Some of it I can share, though out of context.  
-  
-  
+Sharable LINCS Code/module use - LINCS primarily used a modular-based program (PipelinePilot) to obtain, edit, etc., various information. Some of it I can share, though out of context.</br>
+</br>
 
 ![](https://imgur.com/DlDi9j8.png)
 
