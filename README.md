@@ -8,7 +8,7 @@ Sharable LINCS Code/module use - LINCS primarily used a modular-based program (P
 </br>
 </br>
 </br>
-</br></br></br></br></br></br></br></br></br></br>
+</br>
 
 ![](https://imgur.com/DlDi9j8.png)
 
