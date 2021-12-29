@@ -23,7 +23,7 @@ Sample portion examining incoming files and sorting into proper locations for da
 </br>
 </br>
 </br>
-What’s coming in? - Find out if incoming csv submissions have already been seen, are mapped to proper values internally, and, if new or updated, get it completed:
+<b>What’s coming in?</b> - Find out if incoming csv submissions have already been seen, are mapped to proper values internally, and, if new or updated, get it completed:
 
 ![](https://imgur.com/UyDvE6O.png)
 
@@ -38,7 +38,7 @@ Comma separated listing of id(s) to be updated, why, and what field(s)
 </br>
 </br>
 </br>
-Registration of New entities incoming to the LINCS system
+<b>Registration of New entities incoming to the LINCS system</b>
 
 ![](https://imgur.com/elhrLSs.png)
 
